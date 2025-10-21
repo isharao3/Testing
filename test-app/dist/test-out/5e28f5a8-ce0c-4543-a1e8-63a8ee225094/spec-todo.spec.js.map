@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/todo.ts", "src/app/todo.spec.ts"],
+  "sourcesContent": ["export class Todo {\r\n    nums: number[] = [1,2,3,4]\r\n\r\n    add(n1:number){\r\n        this.nums.push(n1);\r\n\r\n    }\r\n    get()\r\n    {\r\n        return this.nums;\r\n    }\r\n}\r\n", "import { Todo } from './todo';\r\n\r\ndescribe('Todo', () => {\r\n  it('should create an instance', () => {\r\n    expect(new Todo()).toBeTruthy();\r\n  });\r\n\r\n  describe('Lab', () =>{\r\n    var td: Todo;\r\n    beforeAll(()=>{\r\n         td=new Todo();\r\n      });\r\n\r\n    it('Get',()=>{\r\n      let result= td.get();\r\n      expect(result).toBeTruthy();\r\n    })\r\n    it('add', ()=>{\r\n      let result=td.add(5);\r\n      var lastitem=td.nums[td.nums.length-1]\r\n      expect(lastitem).toBe(5);\r\n      expect(td.nums.length).toBeGreaterThan(1);\r\n    })\r\n  })\r\n});\r\n"],
+  "mappings": ";;;AAAM,IAAO,OAAP,MAAW;EACb,OAAiB,CAAC,GAAE,GAAE,GAAE,CAAC;EAEzB,IAAI,IAAS;AACT,SAAK,KAAK,KAAK,EAAE;EAErB;EACA,MAAG;AAEC,WAAO,KAAK;EAChB;;;;ACRJ,SAAS,QAAQ,MAAK;AACpB,KAAG,6BAA6B,MAAK;AACnC,WAAO,IAAI,KAAI,CAAE,EAAE,WAAU;EAC/B,CAAC;AAED,WAAS,OAAO,MAAK;AACnB,QAAI;AACJ,cAAU,MAAI;AACT,WAAG,IAAI,KAAI;IACd,CAAC;AAEH,OAAG,OAAM,MAAI;AACX,UAAI,SAAQ,GAAG,IAAG;AAClB,aAAO,MAAM,EAAE,WAAU;IAC3B,CAAC;AACD,OAAG,OAAO,MAAI;AACZ,UAAI,SAAO,GAAG,IAAI,CAAC;AACnB,UAAI,WAAS,GAAG,KAAK,GAAG,KAAK,SAAO,CAAC;AACrC,aAAO,QAAQ,EAAE,KAAK,CAAC;AACvB,aAAO,GAAG,KAAK,MAAM,EAAE,gBAAgB,CAAC;IAC1C,CAAC;EACH,CAAC;AACH,CAAC;",
+  "names": []
+}
