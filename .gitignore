@@ -1,0 +1,45 @@
+# .NET / Visual Studio
+.vs/
+.vscode/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Pp]ublish/
+build/
+Build/
+
+# NuGet Packages
+packages/
+project.lock.json
+project.assets.json
+*.nupkg
+
+# Rider / ReSharper specific
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# User-specific files & sensitive data
+appsettings.Development.json
+secrets.json
+*.env
+
+# Log files
+*.log
+
+# Test results
+[Tt]est[Rr]esult*/
+TestResult.xml
+
+# OS-generated files
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
