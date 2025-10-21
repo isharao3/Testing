@@ -1,0 +1,11 @@
+C:\Demos\MathOps\Movies\bin\Debug\net8.0\Movies.deps.json
+C:\Demos\MathOps\Movies\bin\Debug\net8.0\Movies.dll
+C:\Demos\MathOps\Movies\bin\Debug\net8.0\Movies.pdb
+C:\Demos\MathOps\Movies\obj\Debug\net8.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\MathOps\Movies\obj\Debug\net8.0\Movies.AssemblyInfoInputs.cache
+C:\Demos\MathOps\Movies\obj\Debug\net8.0\Movies.AssemblyInfo.cs
+C:\Demos\MathOps\Movies\obj\Debug\net8.0\Movies.csproj.CoreCompileInputs.cache
+C:\Demos\MathOps\Movies\obj\Debug\net8.0\Movies.dll
+C:\Demos\MathOps\Movies\obj\Debug\net8.0\refint\Movies.dll
+C:\Demos\MathOps\Movies\obj\Debug\net8.0\Movies.pdb
+C:\Demos\MathOps\Movies\obj\Debug\net8.0\ref\Movies.dll

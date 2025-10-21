@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MathOps_Func.props" />
+</Project>

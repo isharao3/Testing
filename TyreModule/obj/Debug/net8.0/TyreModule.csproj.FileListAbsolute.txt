@@ -1,0 +1,11 @@
+C:\Demos\MathOps\TyreModule\bin\Debug\net8.0\TyreModule.deps.json
+C:\Demos\MathOps\TyreModule\bin\Debug\net8.0\TyreModule.dll
+C:\Demos\MathOps\TyreModule\bin\Debug\net8.0\TyreModule.pdb
+C:\Demos\MathOps\TyreModule\obj\Debug\net8.0\TyreModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\MathOps\TyreModule\obj\Debug\net8.0\TyreModule.AssemblyInfoInputs.cache
+C:\Demos\MathOps\TyreModule\obj\Debug\net8.0\TyreModule.AssemblyInfo.cs
+C:\Demos\MathOps\TyreModule\obj\Debug\net8.0\TyreModule.csproj.CoreCompileInputs.cache
+C:\Demos\MathOps\TyreModule\obj\Debug\net8.0\TyreModule.dll
+C:\Demos\MathOps\TyreModule\obj\Debug\net8.0\refint\TyreModule.dll
+C:\Demos\MathOps\TyreModule\obj\Debug\net8.0\TyreModule.pdb
+C:\Demos\MathOps\TyreModule\obj\Debug\net8.0\ref\TyreModule.dll
