@@ -1,0 +1,11 @@
+C:\Demos\MathOps\AccessoriesModule\bin\Debug\net8.0\AccessoriesModule.deps.json
+C:\Demos\MathOps\AccessoriesModule\bin\Debug\net8.0\AccessoriesModule.dll
+C:\Demos\MathOps\AccessoriesModule\bin\Debug\net8.0\AccessoriesModule.pdb
+C:\Demos\MathOps\AccessoriesModule\obj\Debug\net8.0\AccessoriesModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\MathOps\AccessoriesModule\obj\Debug\net8.0\AccessoriesModule.AssemblyInfoInputs.cache
+C:\Demos\MathOps\AccessoriesModule\obj\Debug\net8.0\AccessoriesModule.AssemblyInfo.cs
+C:\Demos\MathOps\AccessoriesModule\obj\Debug\net8.0\AccessoriesModule.csproj.CoreCompileInputs.cache
+C:\Demos\MathOps\AccessoriesModule\obj\Debug\net8.0\AccessoriesModule.dll
+C:\Demos\MathOps\AccessoriesModule\obj\Debug\net8.0\refint\AccessoriesModule.dll
+C:\Demos\MathOps\AccessoriesModule\obj\Debug\net8.0\AccessoriesModule.pdb
+C:\Demos\MathOps\AccessoriesModule\obj\Debug\net8.0\ref\AccessoriesModule.dll
